@@ -34,10 +34,10 @@ INITIALAMOUNT-Token发行量
 
 ## Tips
 <p>
- 每一份代码开头的pragma solidity ^0.4.4里面的^表示向上兼容，如果限制用哪一个版本请自行百度
+ 每一份代码开头的 **pragma solidity ^0.4.4** 里面的 **^** 表示向上兼容，如果限制用哪一个版本请自行百度
 </p>
 <p>
-如果想要发行自己的token，只需要把代码文件里面MyErc2.0Coin出现的地方替换为你的Token全称即可
+如果想要发行自己的token，只需要把代码文件里面 **MyErc2.0Coin** 出现的地方替换为你的Token全称即可
 </p>
 
 ## 
