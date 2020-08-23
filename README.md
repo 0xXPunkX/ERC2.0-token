@@ -20,14 +20,14 @@
 在发Token前，你先的确定以下几个内容：
 </p>
 <p>
-Token的名称
+TOKENNAME-Token的全称
 </p>
 <p>
-Token的标识
+TOKENSYMBOL-Token的标识/缩写
 </p>
 <p>
-Token的小数位：小数位是18位，表示这个Token最小可以到 .0000000000000000001
+INITIALAMOUNT-Token的小数位：小数位是18位，表示这个Token最小可以到 .0000000000000000001
 </p>
 <p>
-Token发型量
+INITIALAMOUNT-Token发行量
 </p>
