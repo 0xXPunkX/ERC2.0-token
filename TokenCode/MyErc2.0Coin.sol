@@ -14,7 +14,7 @@ pragma solidity ^0.4.4;
 
 import "./StandardToken.sol";
 
-contract MyFreeCoin is StandardToken {
+contract MyErc2.0Coin is StandardToken {
 
     function () {
         //if ether is sent to this address, send it back.
@@ -29,12 +29,12 @@ contract MyFreeCoin is StandardToken {
     They allow one to customise the token contract & in no way influences the core functionality.
     Some wallets/interfaces might not even bother to look at this information.
     */
-    string public name;                   //token名称: MyFreeCoin 
+    string public name;                   //token名称: MyErc2.0Coin 
     uint8 public decimals;                //小数位
     string public symbol;                 //标识
     string public version = 'H0.1';       //版本号
 
-    function MyFreeCoin(
+    function MyErc2.0Coin(
         uint256 _initialAmount,
         string _tokenName,
         uint8 _decimalUnits,
