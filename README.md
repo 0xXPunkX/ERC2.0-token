@@ -59,7 +59,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * Projects that are deprecated or no longer maintained will be removed.
 * Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
 
-^Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
+Is the above fair? Share your input here - https://github.com/ConsenSysLabs/ethereum-developer-tools-list/pull/70
 
 ## Table of Contents
 - [New developers start here](#new-developers-start-here)
